@@ -7,6 +7,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="Inventory-Service" />
+        <module name="api-service" />
         <module name="order-service" />
         <module name="inventory-service" />
         <module name="serviceregistry" />
