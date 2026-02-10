@@ -1,4 +1,4 @@
-package edu.ijse.gdse71.orderservice;
+package com.dilshanhesara.orderservice;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

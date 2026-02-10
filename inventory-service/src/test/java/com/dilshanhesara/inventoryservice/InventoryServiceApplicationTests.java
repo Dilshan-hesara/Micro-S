@@ -1,4 +1,4 @@
-package edu.ijse.gdse71.inventoryservice;
+package com.dilshanhesara.inventoryservice;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

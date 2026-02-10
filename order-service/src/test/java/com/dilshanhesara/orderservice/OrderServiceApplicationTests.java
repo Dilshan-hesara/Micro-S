@@ -1,4 +1,4 @@
-package edu.ijse.gdse71.orderservice;
+package com.dilshanhesara.orderservice;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
